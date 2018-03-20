@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# Welcome!
 
-### More Information
+This is a test page
 
-A place to include any other types of information that you'd like to include about yourself.
+## Thing I like
+ - Eating
+ - sleeping
+ - coding
+ - putting stuff on [github](http://github.com)
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
